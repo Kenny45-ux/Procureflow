@@ -1,0 +1,14 @@
+[2025-09-18 00:54:08] Preparing to send email to: your.address@gmail.com, Subject: From-name test
+[2025-09-18 00:54:08] BCC added: admin@procureflow.com
+[2025-09-18 00:54:08] Sending as plain text email
+[2025-09-18 00:54:08] Email details - To: your.address@gmail.com, Subject: From-name test, Headers: From: ProcureFlow Tech Support <test@procureflow.com>
+Reply-To: admin@procureflow.com
+Bcc: admin@procureflow.com
+Content-Type: text/plain; charset=UTF-8
+[2025-09-18 00:54:08] Email accepted for delivery to: your.address@gmail.com
+[2025-09-18 00:54:31] Preparing to send email to: test@example.com, Subject: Test Email with MailDev
+[2025-09-18 00:54:31] Sending as plain text email
+[2025-09-18 00:54:31] Email details - To: test@example.com, Subject: Test Email with MailDev, Headers: From: ProcureFlow Tech Support <test@procureflow.com>
+Reply-To: admin@procureflow.com
+Content-Type: text/plain; charset=UTF-8
+[2025-09-18 00:54:32] Email accepted for delivery to: test@example.com
